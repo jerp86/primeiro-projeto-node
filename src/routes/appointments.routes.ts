@@ -27,7 +27,7 @@ appointmentsRouter.post('/', (request, response) => {
       date: parsedDate,
       provider,
     });
-
+    console.warn(appointment);
     return response.json(appointment);
   } catch (err) {
     return response.status(400).json({ error: err.message });
