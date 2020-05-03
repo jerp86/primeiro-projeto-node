@@ -12,6 +12,8 @@
 
 ---
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a8230203b71b4687a5be95c35d064511)](https://app.codacy.com/manual/jerp86/primeiro-projeto-node?utm_source=github.com&utm_medium=referral&utm_content=jerp86/primeiro-projeto-node&utm_campaign=Badge_Grade_Settings)
+
 # Indice
 
 - :clipboard: [Sobre](#clipboard-sobre)
